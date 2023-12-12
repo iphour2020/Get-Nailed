@@ -1,0 +1,16 @@
+ [
+  {
+    "op": "replace",
+    "path": "/1/ingredientPattern",
+    "value": "MN,TS,A_",
+    "file": "aculinaryartillery:recipes/grid/blocks/mixingbowl.json",
+    "dependson": [{"modid": "aculinaryartillery"}]
+  },
+  {
+    "op": "add",
+    "path": "/1/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-*"},
+    "file": "aculinaryartillery:recipes/grid/blocks/mixingbowl.json",
+    "dependson": [{"modid": "aculinaryartillery"}]
+  }
+]

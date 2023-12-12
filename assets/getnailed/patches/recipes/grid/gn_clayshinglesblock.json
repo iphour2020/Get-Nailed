@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "SNS,S_S",
+    "file": "game:recipes/grid/clayshinglesblock.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/clayshinglesblock.json"
+  },
+  {
+    "op": "replace",
+    "path": "/width",
+    "value": 3,
+    "file": "game:recipes/grid/clayshinglesblock.json"
+  }
+]

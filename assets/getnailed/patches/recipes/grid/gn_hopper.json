@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "SN,SS",
+    "file": "game:recipes/grid/stairs/clayshinglestairs.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/stairs/clayshinglestairs.json"
+  }
+]

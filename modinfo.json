@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "getnailed",
+  "name": "Get Nailed",
+  "authors": [ "Iphour"],
+  "description": "adds nails as an ingredient to more items",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.18.0"
+  }
+}

@@ -1,0 +1,23 @@
+ [
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "PNP,SCS,PNP",
+    "file": "animalcages:recipes/grid/mediumanimalcage.json",
+    "dependson": [{"modid": "animalcages"}]
+  },
+  {
+    "op": "replace",
+    "path": "/ingredients/S",
+    "value": {"type": "item", "code": "game:stick", "quantity": 4 },
+    "file": "animalcages:recipes/grid/mediumanimalcage.json",
+    "dependson": [{"modid": "animalcages"}]
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {"type": "item", "code": "game:metalnailsandstrips-*"},
+    "file": "animalcages:recipes/grid/mediumanimalcage.json",
+    "dependson": [{"modid": "animalcages"}]
+  }
+]

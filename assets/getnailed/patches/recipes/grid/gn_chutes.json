@@ -1,0 +1,83 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/ingredientPattern",
+    "value": "IN,_I",
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "add",
+    "path": "/0/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "replace",
+    "path": "/1/ingredientPattern",
+    "value": "I,N,I",
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "add",
+    "path": "/1/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "replace",
+    "path": "/1/width",
+    "value": 3,
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "replace",
+    "path": "/2/ingredientPattern",
+    "value": "_I_,INI,_I_",
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "replace",
+    "path": "/3/ingredientPattern",
+    "value": "_I_,INI",
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "add",
+    "path": "/3/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "replace",
+    "path": "/4/ingredientPattern",
+    "value": "NI_,II_",
+    "file": "game:recipes/grid/chute.json"
+  },
+  {
+    "op": "add",
+    "path": "/4/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/chute.json"
+  }
+]

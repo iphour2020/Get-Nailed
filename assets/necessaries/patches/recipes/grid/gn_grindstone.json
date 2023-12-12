@@ -1,0 +1,16 @@
+ [
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "NAN,PAP,R_R",
+    "file": "necessaries:recipes/grid/grindstone.json",
+    "dependson": [{"modid": "stillnecessaries"}]
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-*"},
+    "file": "necessaries:recipes/grid/grindstone.json",
+    "dependson": [{"modid": "stillnecessaries"}]
+  }
+]

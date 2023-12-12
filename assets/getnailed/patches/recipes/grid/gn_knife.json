@@ -1,0 +1,24 @@
+[
+  {"op": "replace",
+   "path": "/0/ingredients/T",
+   "value": { "type": "item", "code": "knifeblade-*", "name": "material", "allowedVariants": ["chert", "granite", "andesite", "basalt", "obsidian", "flint", "peridotite"]},
+   "file": "game:recipes/grid/tool/knife.json"
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "file": "game:recipes/grid/tool/knife.json",
+    "value": {
+  		"ingredientPattern": "TN,S_",
+  		"ingredients": {
+  			"T": { "type": "item", "code": "knifeblade-*", "name": "material", "allowedVariants": ["copper", "tinbronze", "bismuthbronze", "blackbronze", "silver", "gold", "iron", "meteoriciron", "steel"]},
+  			"S": { "type": "item", "code": "stick" },
+        "N": { "type": "item", "code": "metalnailsandstrips-*"}
+  		},
+  		"width": 2,
+  		"height": 2,
+  		"output": { "type": "item", "code": "knife-generic-{material}", "quantity": 1 },
+    },
+	}
+    
+]

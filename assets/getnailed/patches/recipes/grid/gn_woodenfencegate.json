@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/height",
+    "value": 3,
+    "file": "game:recipes/grid/woodenfencegate.json"
+  },
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "_N_,SPS,SPS",
+    "file": "game:recipes/grid/woodenfencegate.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/woodenfencegate.json"
+  }
+]

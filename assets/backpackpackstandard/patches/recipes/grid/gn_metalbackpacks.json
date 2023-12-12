@@ -1,0 +1,107 @@
+ [
+  {
+    "op": "replace",
+    "path": "/0/ingredientPattern",
+    "value": "HLK,PBP,_N_",
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/0/height",
+    "value": 3,
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "add",
+    "path": "/0/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-tinbronze"},
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+{
+    "op": "replace",
+    "path": "/1/ingredientPattern",
+    "value": "HLK,PBP,_N_",
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/1/height",
+    "value": 3,
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "add",
+    "path": "/1/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-blackbronze"},
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/2/ingredientPattern",
+    "value": "HLK,PBP,_N_",
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/2/height",
+    "value": 3,
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "add",
+    "path": "/2/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-bismuthbronze"},
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/3/ingredientPattern",
+    "value": "HLK,PBP,_N_",
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/3/height",
+    "value": 3,
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "add",
+    "path": "/3/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-iron"},
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/4/ingredientPattern",
+    "value": "HLK,PBP,_N_",
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "replace",
+    "path": "/4/height",
+    "value": 3, 
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  },
+  {
+    "op": "add",
+    "path": "/4/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-steel",},
+    "file": "backpackpackstandard:recipes/grid/metalbackpacks.json",
+    "dependson": [{"modid": "backpackpack"}]
+  }
+]

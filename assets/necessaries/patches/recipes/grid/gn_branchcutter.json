@@ -1,0 +1,16 @@
+ [
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "SNK,_T_,T_T",
+    "file": "necessaries:recipes/grid/branchcutter.json",
+    "dependson": [{"modid": "stillnecessaries"}]
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-*"},
+    "file": "necessaries:recipes/grid/branchcutter.json",
+    "dependson": [{"modid": "stillnecessaries"}]
+  }
+]

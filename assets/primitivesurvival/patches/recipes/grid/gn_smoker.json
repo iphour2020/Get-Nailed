@@ -1,0 +1,16 @@
+ [
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "TTT,PNP,CCC",
+    "file": "primitivesurvival:recipes/grid/smoker.json",
+    "dependson": [{"modid": "primitivesurvival"}]
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": { "type": "item", "code": "game:metalnailsandstrips-*", "quantity": 2},
+    "file": "primitivesurvival:recipes/grid/smoker.json",
+    "dependson": [{"modid": "primitivesurvival"}]
+  }
+]

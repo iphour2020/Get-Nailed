@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/height",
+    "value": 3,
+    "file": "game:recipes/grid/torchholder.json"
+  },
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "I,N,I",
+    "file": "game:recipes/grid/torchholder.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/torchholder.json"
+  }
+]

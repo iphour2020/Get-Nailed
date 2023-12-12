@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "_H_,BHB,BNB",
+    "file": "game:recipes/grid/armorstand.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": { "type": "item", "code": "metalnailsandstrips-*"},
+    "file": "game:recipes/grid/armorstand.json"
+  }
+]

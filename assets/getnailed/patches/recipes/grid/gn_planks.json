@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/ingredientPattern",
+    "value": "PNP,P_P",
+    "file": "game:recipes/grid/planks.json"
+  },
+  {"op": "replace",
+    "path": "/0/ingredients/P",
+    "value": { "type": "item", "code": "plank-*", "name": "wood", "quantity": 2, "skipVariants": ["agedebony", "rottenebony"] },
+    "file": "game:recipes/grid/planks.json"
+  },
+  {
+    "op": "add",
+    "path": "/0/ingredients/N",
+    "value": {"type": "item", "code": "metalnailsandstrips-*"},
+    "file": "game:recipes/grid/planks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/0/width",
+    "value": 3,
+    "file": "game:recipes/grid/planks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/0/output",
+    "value": {"type": "block", "code": "planks-{wood}-ns", "quantity": "2"},
+    "file":"game:recipes/grid/planks.json"
+  },
+
+]

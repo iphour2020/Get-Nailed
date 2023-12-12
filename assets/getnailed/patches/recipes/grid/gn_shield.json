@@ -1,0 +1,442 @@
+[
+  {
+    "op": "replace",
+    "path": "/3/ingredientPattern",
+    "value": "NH_,BPB,_B_",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/3/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/4/ingredientPattern",
+    "value": "LHL,BPB,LNL",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/4/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/5/ingredientPattern",
+    "value": "LHL,BPB,LNL",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/5/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/6/ingredientPattern",
+    "value": "LHL,BPB,LNL",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/6/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/7/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/7/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/8/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/8/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/9/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/9/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/10/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/10/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/11/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/11/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/12/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/12/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/13/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/13/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/14/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/14/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/15/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/15/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/16/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/16/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/17/ingredientPattern",
+    "value": "SHW,BPB,ONG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/17/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/18/ingredientPattern",
+    "value": "GHW,BPB,WNG",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/18/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/19/ingredientPattern",
+    "value": "NH_,PBP",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/19/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/20/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/20/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/21/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/21/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/22/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/22/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/23/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/23/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/24/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/24/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/25/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/25/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/26/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/26/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/27/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/27/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/28/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/28/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/29/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/29/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/30/ingredientPattern",
+    "value": "SHW,PBP,YNO",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/30/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "replace",
+    "path": "/31/ingredientPattern",
+    "value": "CPC,VBV,LNL",
+    "file": "game:recipes/grid/tool/shield.json"
+  },
+  {
+    "op": "add",
+    "path": "/31/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*",
+      "allowedVariants": [
+        "blackbronze",
+        "iron",
+        "steel"
+      ]
+    },
+    "file": "game:recipes/grid/tool/shield.json"
+  }
+]

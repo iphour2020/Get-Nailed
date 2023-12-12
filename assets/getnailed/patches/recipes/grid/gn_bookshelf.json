@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/ingredientPattern",
+    "value": "PNP,PPP,P_P",
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "add",
+    "path": "/0/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "replace",
+    "path": "/1/ingredientPattern",
+    "value": "PPP,PNP,PPP",
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "add",
+    "path": "/1/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "replace",
+    "path": "/2/ingredientPattern",
+    "value": "PPP,NP_,PPP",
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "add",
+    "path": "/2/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "replace",
+    "path": "/3/ingredientPattern",
+    "value": "PNP,_P_,P_P",
+    "file": "game:recipes/grid/bookshelf.json"
+  },
+  {
+    "op": "add",
+    "path": "/3/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/bookshelf.json"
+  }
+]

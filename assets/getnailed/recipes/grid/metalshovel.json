@@ -1,0 +1,13 @@
+[
+	{
+		"ingredientPattern": "TN,S_",
+			"ingredients": {
+				"T": { "type": "item", "code": "game:shovelhead-*", "name": "material", "allowedVariants": ["copper", "tinbronze", "bismuthbronze", "blackbronze", "silver", "gold", "iron", "meteoriciron", "steel"]},
+				"S": { "type": "item", "code": "game:stick" },
+				"N": { "type": "item", "code": "game:metalnailsandstrips-*"}
+			},
+			"width": 2,
+			"height": 2,
+			"output": { "type": "item", "code": "game:shovel-{material}", "quantity": 1  }
+	}
+]

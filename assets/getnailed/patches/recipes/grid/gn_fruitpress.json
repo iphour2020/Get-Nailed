@@ -1,0 +1,25 @@
+[
+  {
+    "op": "replace",
+    "path": "/ingredientPattern",
+    "value": "HIF,CPR,PNP",
+    "file": "game:recipes/grid/fruitpress.json"
+  },
+  {
+    "op": "add",
+    "path": "/ingredients/N",
+    "value": {
+      "type": "item",
+      "name": "metal",
+      "code": "metalnailsandstrips-*",
+      "quantity": 2
+    },
+    "file": "game:recipes/grid/fruitpress.json"
+  },
+  {
+    "op": "replace",
+    "path": "/ingredients/P/quantity",
+    "value": 4,
+    "file": "game:recipes/grid/fruitpress.json"
+  }
+]

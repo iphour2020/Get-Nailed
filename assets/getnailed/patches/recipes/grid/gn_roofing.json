@@ -1,0 +1,152 @@
+[
+  {
+    "op": "replace",
+    "path": "/6/ingredientPattern",
+    "value": "_NH,_H_,H__",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/6/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/7/ingredientPattern",
+    "value": "_H_,HNH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/7/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/8/ingredientPattern",
+    "value": "NH_,HHH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/8/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/9/ingredientPattern",
+    "value": "_H,HN,_H",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/9/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/10/ingredientPattern",
+    "value": "NH,HH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/10/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/11/ingredientPattern",
+    "value": "_NH,_H_,H__",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/11/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/12/ingredientPattern",
+    "value": "_H_,HNH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/12/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/14/ingredientPattern",
+    "value": "NH_,HHH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/14/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/15/ingredientPattern",
+    "value": "_H,HN,_H",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/15/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "replace",
+    "path": "/16/ingredientPattern",
+    "value": "NH,HH",
+    "file": "game:recipes/grid/roofing.json"
+  },
+  {
+    "op": "add",
+    "path": "/16/ingredients/N",
+    "value": {
+      "type": "item",
+      "code": "metalnailsandstrips-*"
+    },
+    "file": "game:recipes/grid/roofing.json"
+  }
+]
