@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/1/ingredientPattern",
-    "value": "PPP,PNP,PPP",
+    "value": "PPP,P_P,PNP",
     "file": "game:recipes/grid/bookshelf.json"
   },
   {
