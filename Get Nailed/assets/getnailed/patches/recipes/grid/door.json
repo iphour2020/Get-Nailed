@@ -1,13 +1,13 @@
 [
   {
     "op": "replace",
-    "path": "/1/ingredientPattern",
+    "path": "/2/ingredientPattern",
     "value": "WW,WN,WW",
     "file": "game:recipes/grid/doors.json"
   },
   {
     "op": "add",
-    "path": "/1/ingredients/N",
+    "path": "/2/ingredients/N",
     "value": {
       "type": "item",
       "code": "metalnailsandstrips-*"
@@ -16,7 +16,7 @@
   },
   {
     "op": "add",
-    "path": "/1/ingredients/W/quantity",
+    "path": "/2/ingredients/W/quantity",
     "value": 2,
     "file": "game:recipes/grid/doors.json"
   }

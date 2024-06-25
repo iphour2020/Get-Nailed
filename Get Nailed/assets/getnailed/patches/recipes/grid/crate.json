@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/ingredientPattern",
-    "value": "WWW,PNP,WWW",
+    "value": "WWW,PSP,WWW",
     "file": "game:recipes/grid/crate.json"
   },
   {
     "op": "add",
-    "path": "/ingredients/N",
+    "path": "/ingredients/P",
     "value": { "type": "item", "code": "metalnailsandstrips-*","quantity": 1},
     "file": "game:recipes/grid/crate.json"
   }
